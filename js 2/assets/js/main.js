@@ -21,10 +21,10 @@
 				var settings = {
 
 						images: {
-							'./images/bg1.webp': 'center',
-							'./images/bg2.webp': 'center',
-							'./images/bg3.webp': 'center'
-						},
+                                'https://cdn.jsdelivr.net/gh/chaobinai220-blip/Projects-Over1@main/js 4/assets/images/bg1.webp?t=20260624': 'center',
+                                'https://cdn.jsdelivr.net/gh/chaobinai220-blip/Projects-Over1@main/js 4/assets/images/bg2.webp?t=20260624': 'center',
+                                'https://cdn.jsdelivr.net/gh/chaobinai220-blip/Projects-Over1@main/js 4/assets/images/bg3.webp?t=20260624': 'center'
+                },
 
 						delay: 6000
 
